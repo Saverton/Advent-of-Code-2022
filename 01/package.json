@@ -1,0 +1,11 @@
+{
+  "name": "01",
+  "version": "1.0.0",
+  "description": "day 1 of advent of code 2022",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Hello World!\""
+  },
+  "author": "Scott M.",
+  "license": "ISC"
+}
